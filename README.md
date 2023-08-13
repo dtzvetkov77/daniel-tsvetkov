@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **zvetkovd@gmail.com**
 
-- Welcome to my GitHub profile! I am a dedicated and motivated MERN stack developer with a strong passion for React and its ecosystem. Since 2021, I have been studying programming at SoftUni, immersing myself in the world of web development and honing my skills in building dynamic and responsive applications.
+- Welcome to my GitHub profile! I am a dedicated and motivated full-stack developer with a strong passion for React and its ecosystem. Since 2021, I have been studying programming at SoftUni, immersing myself in the world of web development and honing my skills in building dynamic and responsive applications.
 
 - With a solid foundation in HTML, CSS, and JavaScript, I quickly gravitated towards the MERN (MongoDB, Express.js, React, Node.js) stack, as it offers a powerful and versatile toolkit for creating modern web applications. I find immense joy in architecting robust solutions and crafting seamless user experiences using React's component-based approach.
   
