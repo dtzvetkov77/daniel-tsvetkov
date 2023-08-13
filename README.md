@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dtzvetkov77" alt="dtzvetkov77" /></a> </p>
-
 - 🔭 I’m currently working on [CarHub](https://github.com/dtzvetkov77/car-hub)
 
 - 🌱 I’m currently learning **Next.js, Shadcn/UI**
