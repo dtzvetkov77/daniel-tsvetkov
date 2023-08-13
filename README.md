@@ -19,7 +19,7 @@
   
 - As a lifelong learner, I stay up-to-date with the latest trends and best practices in web development, continuously expanding my knowledge and skill set. I am a firm believer in clean code, maintainable architecture, and efficient problem-solving, always striving for excellence in every project I undertake.
   
-- I am excited about collaborating with like-minded professionals, contributing to impactful projects, and tackling new challenges in the MERN stack realm. If you share a passion for React and cutting-edge web technologies, let's connect and explore ways to create innovative solutions together."
+- I am excited about collaborating with like-minded professionals, contributing to impactful projects, and tackling new challenges in the full-stack realm. If you share a passion for React and cutting-edge web technologies, let's connect and explore ways to create innovative solutions together."
 
 
 <h3 align="left">Connect with me:</h3>
