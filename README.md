@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [Metaverus]([https://github.com/dtzvetkov77/car-hub](https://github.com/dtzvetkov77/metaversus)
+- 🔭 I’m currently working on [Metaverus]([https://github.com/dtzvetkov77/metaversus])
 
 - 🌱 I’m currently learning **Next.js, Shadcn/UI**
 
