@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [CarHub](https://github.com/dtzvetkov77/car-hub)
+- 🔭 I’m currently working on [Metaverus]([https://github.com/dtzvetkov77/car-hub](https://github.com/dtzvetkov77/metaversus))
 
 - 🌱 I’m currently learning **Next.js, Shadcn/UI**
 
@@ -9,17 +9,17 @@
 
 - 📫 How to reach me **zvetkovd@gmail.com**
 
-- Welcome to my GitHub profile! I am a dedicated and motivated full-stack developer with a strong passion for React and its ecosystem. Since 2021, I have been studying programming at SoftUni, immersing myself in the world of web development and honing my skills in building dynamic and responsive applications.
+- Welcome to my GitHub profile! I am a dedicated and motivated full-stack developer passionate about React and its ecosystem. Since 2021, I have been studying programming at SoftUni, immersing myself in the world of web development and honing my skills in building dynamic and responsive applications.
 
 - With a solid foundation in HTML, CSS, and JavaScript, I quickly gravitated towards the MERN (MongoDB, Express.js, React, Node.js) stack, as it offers a powerful and versatile toolkit for creating modern web applications. I find immense joy in architecting robust solutions and crafting seamless user experiences using React's component-based approach.
   
-- Throughout my programming journey, I have gained hands-on experience in developing full-stack applications, working with RESTful APIs, and utilizing various libraries and frameworks within the MERN ecosystem. I am well-versed in front-end development using React, Redux for state management, and responsive design principles to ensure optimal performance across devices.
+- Throughout my programming journey, I have gained hands-on experience in developing full-stack applications, working with RESTful APIs, and utilizing various libraries and frameworks within the MERN ecosystem. I am well-versed in front-end development using React, Redux for state management, and responsive design principles to ensure optimal device performance.
   
 - Additionally, my proficiency in backend development with Node.js and Express.js enables me to create secure and scalable APIs, implement authentication and authorization mechanisms, and integrate databases such as MongoDB to handle data persistence effectively.
   
 - As a lifelong learner, I stay up-to-date with the latest trends and best practices in web development, continuously expanding my knowledge and skill set. I am a firm believer in clean code, maintainable architecture, and efficient problem-solving, always striving for excellence in every project I undertake.
   
-- I am excited about collaborating with like-minded professionals, contributing to impactful projects, and tackling new challenges in the full-stack realm. If you share a passion for React and cutting-edge web technologies, let's connect and explore ways to create innovative solutions together."
+- I am excited about collaborating with like-minded professionals, contributing to impactful projects, and tackling new challenges in the full-stack realm. If you are passionate about React and cutting-edge web technologies, let's connect and explore ways to create innovative solutions together."
 
 
 <h3 align="left">Connect with me:</h3>
